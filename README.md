@@ -42,8 +42,8 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
 
 | Metric       | CNN Model | ESRGAN Model |
 |--------------|-----------|--------------|
-| PSNR         | 7.09 dB   | 25.15 dB     |
-| SSIM         | 0.18      | 0.90         |
+| PSNR         | 7.09 dB   | 25.71 dB     |
+| SSIM         | 0.18      | 0.93         |
 
 ✔️ Visual comparison also confirms that ESRGAN generates more realistic and sharper textures.
 1.
