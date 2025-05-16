@@ -83,4 +83,4 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
 
 **Karan**  
 Computer Science Student | Passionate about AI/ML  
-📧 Reach me via [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/karan-sharma-59a577236/)) or [Email](mailto:karansharma21004@email.com)
+📧 Reach me via [LinkedIn](https://www.linkedin.com/in/karan-sharma-59a577236/) or [Email](mailto:karansharma21004@email.com)
