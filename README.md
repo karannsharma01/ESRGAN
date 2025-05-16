@@ -44,9 +44,6 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
 |--------------|-----------|--------------|
 | PSNR         | 7.09 dB   | 25.15 dB     |
 | SSIM         | 0.18      | 0.90         |
-| Precision    | 0.8018    | 0.93+        |
-| Recall       | 0.9563    | 0.95+        |
-| F1 Score     | 0.8723    | 0.94+        |
 
 ✔️ Visual comparison also confirms that ESRGAN generates more realistic and sharper textures.
 
@@ -63,11 +60,7 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
 ## 📂 Folder Structure
 
 ```
-├── dataset/                 # DIV2K HR and LR Images
-├── models/                 # Generator & Discriminator classes
-├── train.py                # Training script
-├── evaluate.py             # Evaluation and metric plots
-├── utils.py                # Helper functions
+├── ESRGAN.ipynb            # project file
 ├── README.md               # Project Overview
 ```
 
@@ -79,13 +72,7 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
 - Convert the model to ONNX/TensorRT for deployment
 - Extend ESRGAN with attention mechanisms or Swin Transformers
 
----
 
-## 💡 Inspiration
-
-This project is inspired by the original [ESRGAN paper (Wang et al., 2018)](https://arxiv.org/abs/1809.00219) and aims to bridge the gap between low-level image fidelity and high-level perceptual realism.
-
----
 
 ## 📬 Contact
 
