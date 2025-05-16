@@ -22,7 +22,7 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
     - VGG Perceptual Loss for visual quality
     - Adversarial Loss for GAN stability
 - **Training Strategy**:
-  - Trained for 55 epochs using Adam optimizers
+  - Trained for 100 epochs using Adam optimizers
   - Evaluation using PSNR, SSIM, Precision, Recall, and F1 Score
 
 ---
