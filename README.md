@@ -46,10 +46,12 @@ To enhance the resolution of low-quality images using a deep learning-based ESRG
 | SSIM         | 0.18      | 0.90         |
 
 ✔️ Visual comparison also confirms that ESRGAN generates more realistic and sharper textures.
-![Image](https://github.com/user-attachments/assets/28df80a3-e0f0-4455-bfae-cccdc6b5461a)
+1.
 ![Image](https://github.com/user-attachments/assets/c846d651-b222-4266-bb5a-fe9be9eb431a)
-![Image](https://github.com/user-attachments/assets/a17ccb2d-7342-4bbb-91ec-7c40c19e2881)
-![Image](https://github.com/user-attachments/assets/f6da4fcb-5299-40f6-96f0-6eae8d05d355)
+2.
+![Image](https://github.com/user-attachments/assets/28df80a3-e0f0-4455-bfae-cccdc6b5461a)
+# ![Image](https://github.com/user-attachments/assets/a17ccb2d-7342-4bbb-91ec-7c40c19e2881)
+# ![Image](https://github.com/user-attachments/assets/f6da4fcb-5299-40f6-96f0-6eae8d05d355)
 
 ---
 
