@@ -3,6 +3,7 @@
 
 This project implements **ESRGAN (Enhanced Super-Resolution Generative Adversarial Network)** for improving image resolution. By leveraging adversarial training, perceptual loss, and Residual-in-Residual Dense Blocks (RRDB), this model reconstructs high-resolution images from low-resolution inputs with impressive perceptual quality.
 
+![Image](https://github.com/user-attachments/assets/d53359d8-ffdc-46e7-8b8b-e72cb0cf71da)
 ---
 
 ## 📌 Objective
